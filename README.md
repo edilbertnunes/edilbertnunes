@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @edilbertnunes
-- 👀 I’m interested in to be a web Develloper
+- 👀 I’m interested in to be a Web Developer
 - 🌱 I’m currently learning HTML, CSS, JavaScript,TypeScript and React JS
 - 💞️ I’m looking to collaborate on ...
 
