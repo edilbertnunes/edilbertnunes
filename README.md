@@ -13,8 +13,8 @@ You can click the Preview link to take a look at your changes.
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/edilbertnunes/" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" alt="Edilbert Nunes" height="60" width="60" /></a>
-<a href="mailto:edilbert.nunes@gmail.com" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/official-gmail-icon-2020-.svg" alt="Edilbert Nunes" height="60" width="60" /></a>
 <a href="https://www.instagram.com/edilbertnunes/" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/instagram-2-1.svg" alt="Edilbert Nunes" height="60" width="60" /></a>
+<a href="mailto:edilbert.nunes@gmail.com" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/official-gmail-icon-2020-.svg" alt="Edilbert Nunes" height="60" width="60" /></a>
 </p>
 <br>
 <h3 align="left">Languages and Tools:</h3>
