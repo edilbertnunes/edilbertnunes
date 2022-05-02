@@ -1,5 +1,6 @@
 <h3 align="left">About me:</h3>
-<p align="left">
+<p align="left"> </p>
+<br>
 - 👋 Hi, I’m @edilbertnunes
 - 👀 I’m interested in to be a Web Developer
 - 🌱 I’m currently learning HTML, CSS, JavaScript,TypeScript and React JS
