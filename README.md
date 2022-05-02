@@ -28,7 +28,7 @@ You can click the Preview link to take a look at your changes.
 </p>
 
 <br>
-<h3 align="left">Certification</h3>
+<h3 align="left">Certifications</h3>
 <p align="left"> 
 <a href="https://www.credly.com/badges/6a52c278-78bc-4a33-9ec6-967fd2915a90/linked_in?t=ra9zjl" target="_blank"> <img src="https://images.credly.com/size/340x340/images/70eb1e3f-d4de-4377-a062-b20fb29594ea/azure-data-fundamentals-600x600.png" alt="DP-900" width="80" height="80"/> </a> 
 
