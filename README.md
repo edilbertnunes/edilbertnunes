@@ -30,7 +30,7 @@ You can click the Preview link to take a look at your changes.
 <a href="https://laravel.com/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/laravel-2.svg" alt="javascript" width="60" height="60"/> </a>
 <a href="https://docs.microsoft.com/pt-br/sql/t-sql/queries/queries?view=sql-server-ver15" target="_blank"> <img src="https://symbols.getvecta.com/stencil_28/61_sql-database-generic.90b41636a8.svg" alt="sql-server" width="60" height="60"/> </a>
 <a href="https://git-scm.com/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/git-icon.svg" alt="sql-server" width="60" height="60"/> </a>
-<a href="https://github.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Octicons-mark-github.svg/600px-Octicons-mark-github.svg.png?20180806170715" alt="linux" width="60" height="60"/> </a>
+<a href="https://www.postman.com/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/postman.svg" alt="Postman" width="60" height="60"/> </a>
 <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="60" height="60"/> </a>
 <a href="https://www.debian.org/index.pt.html" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/debian-openlogo.svg" alt="linux" width="60" height="60"/> </a> 
 </p>
