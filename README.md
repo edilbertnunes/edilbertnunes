@@ -1,6 +1,6 @@
 <h3 align="left">About me:</h3>
 
-- 👋 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=+Hi+there+👋;I’m+Edilbret+Nunes+Miquelace)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=+Hi+there+👋;I’m+Edilbert+Nunes;)](https://git.io/typing-svg)
 - 👀 I’m interested in to be a Web Developer
 - 🌱 I’m currently learning HTML, CSS, JavaScript, TypeScript, PHP, Laravel and React JS
 - 💞️ I’m looking to collaborate on ...
