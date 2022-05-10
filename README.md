@@ -48,4 +48,3 @@ You can click the Preview link to take a look at your changes.
   
   
   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=edilbertnunes&count_private=true&show_icons=true&hide=issues,contribs&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=edilbertnunes)](https://github.com/anuraghazra/github-readme-stats)
