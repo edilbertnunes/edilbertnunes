@@ -45,7 +45,7 @@ You can click the Preview link to take a look at your changes.
 <a href="https://www.dio.me/bootcamp/spread-fullstack-developer" target="_blank"> <img src="https://hermes.digitalinnovation.one/files/assets/1832e0d0-a8bf-499e-854f-6713e1f3602c.png" alt="Bootcamp Web FullStack" width="100" height="100"/> </a> 
 <a href="https://www.igti.com.br/bootcamp/analista-de-banco-de-dados" target="_blank"> <img src="https://irp.cdn-website.com/dbd26f15/dms3rep/multi/iStock-1175558817--Convertido--17957ebe-8a6b9d12.svg" alt="Bootcamp Web FullStack" width="300" height="100"/> </a>
 <a href="https://www.startse.com/" target="_blank"> <img src="https://media.discordapp.net/attachments/964223445699264572/984597754753994773/22.png" alt="Bootcamp Web FullStack" width="300" height="100"/> </a>
-<a href="https://www.dio.me/bootcamp/linux-experience" target="_blank"> <img src="https://hermes.digitalinnovation.one/files/assets/7734a94e-e3a5-4c64-aac8-5edcbeb07348.png" alt="DIO - Linux Experience" width="300" height="100"/> </a>
+<a href="https://www.dio.me/bootcamp/linux-experience" target="_blank"> <img src="https://hermes.digitalinnovation.one/files/assets/7734a94e-e3a5-4c64-aac8-5edcbeb07348.png" alt="DIO - Linux Experience" width="100" height="100"/> </a>
   
   
  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=edilbertnunes&count_private=true&show_icons=true&hide=issues,contribs&theme=radical)](https://github.com/anuraghazra/github-readme-stats) 
