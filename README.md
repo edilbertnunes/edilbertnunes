@@ -27,8 +27,6 @@ You can click the Preview link to take a look at your changes.
   <a href="https://www.w3.org/html/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/angular-icon-1.svg" alt="html5" width="60" height="60"/> </a>
 <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="60" height="60"/> </a>
 <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="60" height="60"/> </a>
-<a href="https://www.php.net/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/php-1.svg" alt="javascript" width="60" height="60"/> </a>
-<a href="https://laravel.com/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/laravel-2.svg" alt="javascript" width="60" height="60"/> </a>
 <a href="https://docs.microsoft.com/pt-br/sql/t-sql/queries/queries?view=sql-server-ver15" target="_blank"> <img src="https://symbols.getvecta.com/stencil_28/61_sql-database-generic.90b41636a8.svg" alt="sql-server" width="60" height="60"/> </a>
 <a href="https://git-scm.com/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/git-icon.svg" alt="sql-server" width="60" height="60"/> </a>
 <a href="https://www.postman.com/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/postman.svg" alt="Postman" width="60" height="60"/> </a>
